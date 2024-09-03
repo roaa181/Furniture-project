@@ -136,7 +136,6 @@ body{
     transition: 0.2s;
 }
 .services-item:hover{
-    transform: translateY(-5px);
     background-color:rgb(206, 171, 107) ;
 
 }
